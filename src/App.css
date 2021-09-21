@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+.images_container{
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+  overflow-x: scroll;
+}
+.image{
+  margin: 10px;
+  width: 400px;
+  height: 500px;
+
+}
